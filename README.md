@@ -1,3 +1,5 @@
 # EEG_classification_CNN
-This is the very first CNN network I worked on. It's a project completed in terms of teamwork. My teammate was much more experienced than me at the time, and I learned a lot from him, including basic concepts of convolutional network, as well as the basic usage of Pytorch. I later applied the knowledge I learned in this project into the task CNN_Classification, which I have uploaded into github.
-The architecture of the network was modified from an earlier project he had previously worked on, which worked well on this task. The model of inception and resnet was adopted, which significantly improved the performance of the net.
+This is the first CNN network I worked on. My teammate developed the structure. I later applied the knowledge I learned in this project into the task CNN_Classification, which I have uploaded onto github.
+
+The model of inception and resnet was adopted, which significantly improved the performance of the net.
+![image](https://user-images.githubusercontent.com/79852857/213917032-71bab81c-ad36-441e-ac3c-3d2db44d3022.png)
