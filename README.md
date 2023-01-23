@@ -60,4 +60,5 @@ ComplexConvNeuralNetwork(
   (conv3): Conv2d(88, 88, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
   
 )
+
 )
