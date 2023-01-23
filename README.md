@@ -1,4 +1,6 @@
 # EEG_classification_CNN
+Course project. EEG signals are voltage sequences recorded from volunteers which record their brain activities. Volunteers will conduct different acts during the recording, and the goal is to ciassify correspondent EEG signals.
+
 This is the first CNN network I worked on. I later applied the knowledge I learned in this project into the task CNN_Classification, which I have uploaded onto github.
 
 The model of inception and resnet was adopted, which significantly improved the performance of the net.
