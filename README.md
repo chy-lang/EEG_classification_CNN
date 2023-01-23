@@ -4,6 +4,7 @@ This is the first CNN network I worked on. My teammate developed the structure. 
 The model of inception and resnet was adopted, which significantly improved the performance of the net.
 
 ComplexConvNeuralNetwork(
+
   (conv1): Conv2d(1, 10, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
   
   (incep1): InceptionA(
@@ -25,6 +26,7 @@ ComplexConvNeuralNetwork(
     (pool): MaxPool2d(kernel_size=3, stride=1, padding=1, dilation=1, ceil_mode=False)
     
   )
+  
   (conv2): Conv2d(88, 20, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
   
   (incep2): InceptionA(
