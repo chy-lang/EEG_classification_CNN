@@ -1,7 +1,9 @@
 # EEG_classification_CNN
-This is the first CNN network I worked on. My teammate developed the structure. I later applied the knowledge I learned in this project into the task CNN_Classification, which I have uploaded onto github.
+This is the first CNN network I worked on. I later applied the knowledge I learned in this project into the task CNN_Classification, which I have uploaded onto github.
 
 The model of inception and resnet was adopted, which significantly improved the performance of the net.
+
+Structure of the network：
 
 ComplexConvNeuralNetwork(
 
