@@ -3,7 +3,7 @@ This is the first CNN network I worked on. I later applied the knowledge I learn
 
 The model of inception and resnet was adopted, which significantly improved the performance of the net.
 
-Structure of the network：
+Structure of the network：(
 
 ComplexConvNeuralNetwork(
 
@@ -59,4 +59,5 @@ ComplexConvNeuralNetwork(
   
   (conv3): Conv2d(88, 88, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
   
+)
 )
