@@ -1,5 +1,5 @@
 # EEG_classification_CNN
-Course project. EEG signals, which record our brain activities, are voltage sequences recorded from volunteers. Volunteers will conduct different acts during the recording, and the goal is to ciassify correspondent EEG signals.
+Course project. EEG signals, which record our brain activities, are voltage sequences recorded from volunteers. Volunteers will conduct different acts during the recording, and the goal is to classify correspondent EEG signals.
 
 This is the first CNN network I worked on. I later applied the knowledge I learned in this project into the task CNN_Classification, which I have uploaded onto github.
 
